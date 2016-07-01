@@ -1,0 +1,15 @@
+// To get wifi to work
+ - Plug in wifi-dongle
+ - Edit /etc/network/interfaces and add the network to the list
+  # nano /etc/network/interfaces 
+ - Restart the network service
+  # service networking restart
+
+// To update and upgrade the system
+  # apt-get update
+  # apt-get upgrade
+
+// SimpleCV ref
+ - simplecv.org
+
+

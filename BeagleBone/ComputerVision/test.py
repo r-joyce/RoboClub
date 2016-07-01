@@ -1,5 +1,5 @@
 #!/usr/bin/ python
-import SimpleCV
+from SimpleCV import *
 
 # Initialize the camera
 cam = Camera()
